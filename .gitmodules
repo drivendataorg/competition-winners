@@ -1,0 +1,3 @@
+[submodule "from-fog-nets-to-neural-nets"]
+	path = from-fog-nets-to-neural-nets
+	url = https://github.com/drivendata/from-fog-nets-to-neural-nets.git
