@@ -1,3 +1,6 @@
 [submodule "from-fog-nets-to-neural-nets"]
 	path = from-fog-nets-to-neural-nets
 	url = https://github.com/drivendata/from-fog-nets-to-neural-nets.git
+[submodule "senior-data-science"]
+	path = senior-data-science
+	url = https://github.com/drivendata/senior-data-science.git
