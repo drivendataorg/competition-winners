@@ -4,3 +4,12 @@
 [submodule "senior-data-science"]
 	path = senior-data-science
 	url = https://github.com/drivendata/senior-data-science.git
+[submodule "countable-care"]
+	path = countable-care
+	url = https://github.com/drivendataorg/countable-care
+[submodule "americas-next-top-statistical-model"]
+	path = americas-next-top-statistical-model
+	url = https://github.com/drivendataorg/americas-next-top-statistical-model
+[submodule "box-plots-for-education"]
+	path = box-plots-for-education
+	url = https://github.com/drivendataorg/box-plots-for-education
