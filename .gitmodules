@@ -13,3 +13,6 @@
 [submodule "box-plots-for-education"]
 	path = box-plots-for-education
 	url = https://github.com/drivendataorg/box-plots-for-education
+[submodule "naive-bees-classifier"]
+	path = naive-bees-classifier
+	url = https://github.com/drivendataorg/naive-bees-classifier
