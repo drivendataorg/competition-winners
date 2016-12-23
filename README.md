@@ -16,7 +16,7 @@ This repository contains code volunteered from leading competitors in the [compe
 | [Naive Bees Classifier](https://github.com/drivendataorg/naive-bees-classifier)
 | [Senior Data Science: Safe Aging with SPHERE](https://github.com/drivendataorg/senior-data-science)
 
-
+<br><br>
 Note that when any repo containing submodules is cloned, each submodule needs to be initialized else they remain empty.
 
 To avoid explicitly initializing each submodule, use the `--recursive` flag when cloning:
