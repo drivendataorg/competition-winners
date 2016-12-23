@@ -14,7 +14,7 @@ To avoid explicitly initializing each submodule, use the `--recursive` flag when
 
 If submodule projects are updated, merge the most recent version into the main project using:
 
-`git submodule update --remote —merge`
+`git submodule update --remote —-merge`
 
 
 ## Winning Submissions
