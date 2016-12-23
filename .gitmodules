@@ -16,3 +16,6 @@
 [submodule "naive-bees-classifier"]
 	path = naive-bees-classifier
 	url = https://github.com/drivendataorg/naive-bees-classifier
+[submodule "keeping-it-fresh"]
+	path = keeping-it-fresh
+	url = https://github.com/drivendataorg/keeping-it-fresh
