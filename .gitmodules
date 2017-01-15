@@ -7,6 +7,7 @@
 [submodule "countable-care"]
 	path = countable-care
 	url = https://github.com/drivendataorg/countable-care
+	master = master
 [submodule "americas-next-top-statistical-model"]
 	path = americas-next-top-statistical-model
 	url = https://github.com/drivendataorg/americas-next-top-statistical-model
