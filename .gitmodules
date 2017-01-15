@@ -19,3 +19,6 @@
 [submodule "keeping-it-fresh"]
 	path = keeping-it-fresh
 	url = https://github.com/drivendataorg/keeping-it-fresh
+[submodule "for-fun-competitions"]
+	path = for-fun-competitions
+	url = https://github.com/drivendataorg/for-fun-competitions.git
