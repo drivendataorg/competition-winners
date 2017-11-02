@@ -24,7 +24,9 @@ Note that when any repo containing submodules is cloned, each submodule needs to
 
 To avoid explicitly initializing each submodule, use the `--recursive` flag when cloning:
 
-`git clone --recursive https://github.com/drivendata/competition-winners.git`
+`git clone --recursive https://github.com/drivendata/competition-winners.git`.
+
+This will download the `competition-winners` repository, as well as the contents of _every_ submodule in the winners repository.
 
 If submodule projects are updated, merge the most recent version into the main project using:
 
