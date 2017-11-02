@@ -32,6 +32,10 @@ If submodule projects are updated, merge the most recent version into the main p
 
 `git submodule update --remote —-merge`
 
+from the `competition-winners` repository root directory.
+
+Running `git status` should now show which modules have been updated. Now, `git add .` and commit with a message like `"Merge submodule updates"`.
+
 ## Adding a competition repository as a submodule of this repository
 
 Once a competition repository is ready to be added as a submodule, clone this repository using:
