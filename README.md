@@ -42,4 +42,11 @@ Then, in the root directory run:
 
 `git submodule add https://github.com/drivendataorg/name-of-competition-repo name-of-competition-repo`.
 
-This will update the `.gitmodules` file to point to the competition repo url and collect the contents under the path `name-of-competition-repo` on the competition winners repository page.
+This will update the `.gitmodules` file to point to the competition repo url and collect the contents under the path `name-of-competition-repo` on the competition winners repository page. Running `git status` should show
+
+```
+modified:   .gitmodules
+new file:   name-of-competition-repo
+```
+
+Complete the update by staging `.gitmodules` and `name-of-competition-repo` then committing the changes to master. The new submodule should now appear on the remote page.
