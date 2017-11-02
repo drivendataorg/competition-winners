@@ -25,4 +25,4 @@
 	url = https://github.com/drivendataorg/for-fun-competitions.git
 [submodule "random-walk-of-the-penguins"]
 	path = random-walk-of-the-penguins
-	url = https://github.com/drivendataorg/random-walk-of-the-penguins.git
+	url = https://github.com/drivendataorg/random-walk-of-the-penguins
