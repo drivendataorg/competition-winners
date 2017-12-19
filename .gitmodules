@@ -20,9 +20,6 @@
 [submodule "keeping-it-fresh"]
 	path = keeping-it-fresh
 	url = https://github.com/drivendataorg/keeping-it-fresh
-[submodule "random-walk-of-the-penguins"]
-	path = random-walk-of-the-penguins
-	url = https://github.com/drivendataorg/random-walk-of-the-penguins
 [submodule "for-fun-competitions"]
 	path = for-fun-competitions
 	url = https://github.com/drivendataorg/for-fun-competitions
