@@ -26,3 +26,6 @@
 [submodule "n-plus-one-fish"]
 	path = n-plus-one-fish
 	url = https://github.com/drivendataorg/n-plus-one-fish
+[submodule "random-walk-of-the-penguins"]
+	path = random-walk-of-the-penguins
+	url = https://github.com/drivendataorg/random-walk-of-the-penguins
