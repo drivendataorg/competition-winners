@@ -15,6 +15,7 @@ This repository contains code volunteered from leading competitors in the [compe
 | [Keeping it Fresh: Predict Restaurant Inspections](https://github.com/drivendataorg/keeping-it-fresh)
 | [Naive Bees Classifier](https://github.com/drivendataorg/naive-bees-classifier)
 | [Senior Data Science: Safe Aging with SPHERE](https://github.com/drivendataorg/senior-data-science)
+| [Pover-T Tests: Predicting Poverty](https://github.com/drivendataorg/pover-t-tests)
 
 <br><br>
 
