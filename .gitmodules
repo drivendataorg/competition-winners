@@ -23,6 +23,9 @@
 [submodule "for-fun-competitions"]
 	path = for-fun-competitions
 	url = https://github.com/drivendataorg/for-fun-competitions
+[submodule "pover-t-tests"]
+	path = pover-t-tests
+	url = https://github.com/drivendataorg/pover-t-tests
 [submodule "n-plus-one-fish"]
 	path = n-plus-one-fish
 	url = https://github.com/drivendataorg/n-plus-one-fish
