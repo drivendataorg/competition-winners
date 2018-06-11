@@ -32,3 +32,6 @@
 [submodule "random-walk-of-the-penguins"]
 	path = random-walk-of-the-penguins
 	url = https://github.com/drivendataorg/random-walk-of-the-penguins
+[submodule "power-laws-forecasting"]
+	path = power-laws-forecasting
+	url = https://github.com/drivendataorg/power-laws-forecasting

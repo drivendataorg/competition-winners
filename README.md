@@ -22,6 +22,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Pover-T Tests: Predicting Poverty](https://github.com/drivendataorg/pover-t-tests)
 | [Random Walk of the Penguins](https://github.com/drivendataorg/random-walk-of-the-penguins)
 | [N+1 Fish, N+2 Fish](https://github.com/drivendataorg/n-plus-one-fish)
+| [Power Laws: Forecasting Energy Consumption](https://github.com/drivendataorg/power-laws-forecasting)
 
 <br><br>
 
