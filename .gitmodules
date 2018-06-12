@@ -35,3 +35,6 @@
 [submodule "power-laws-forecasting"]
 	path = power-laws-forecasting
 	url = https://github.com/drivendataorg/power-laws-forecasting
+[submodule "power-laws-anomalies"]
+	path = power-laws-anomalies
+	url = https://github.com/drivendataorg/power-laws-anomalies
