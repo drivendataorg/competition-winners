@@ -23,8 +23,11 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Random Walk of the Penguins](https://github.com/drivendataorg/random-walk-of-the-penguins)
 | [N+1 Fish, N+2 Fish](https://github.com/drivendataorg/n-plus-one-fish)
 | [Power Laws: Forecasting Energy Consumption](https://github.com/drivendataorg/power-laws-forecasting)
+| [Power Laws: Anomaly Detection](https://github.com/drivendataorg/power-laws-anomalies)
+| [Power Laws: Optimizing Demand-side Strategies](https://github.com/drivendataorg/power-laws-optimization)
 
 <br><br>
+
 
 ## Cloning this repository
 

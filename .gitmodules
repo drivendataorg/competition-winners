@@ -38,3 +38,6 @@
 [submodule "power-laws-anomalies"]
 	path = power-laws-anomalies
 	url = https://github.com/drivendataorg/power-laws-anomalies
+[submodule "power-laws-optimization"]
+	path = power-laws-optimization
+	url = https://github.com/drivendataorg/power-laws-optimization
