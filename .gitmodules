@@ -41,3 +41,6 @@
 [submodule "power-laws-optimization"]
 	path = power-laws-optimization
 	url = https://github.com/drivendataorg/power-laws-optimization
+[submodule "pri-matrix-factorization"]
+	path = pri-matrix-factorization
+	url = https://github.com/drivendataorg/pri-matrix-factorization
