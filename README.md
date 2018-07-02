@@ -19,6 +19,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Keeping it Fresh: Predict Restaurant Inspections](https://github.com/drivendataorg/keeping-it-fresh)
 | [Naive Bees Classifier](https://github.com/drivendataorg/naive-bees-classifier)
 | [Senior Data Science: Safe Aging with SPHERE](https://github.com/drivendataorg/senior-data-science)
+| [Pri-matrix Factorization](https://github.com/drivendataorg/pri-matrix-factorization)
 | [Pover-T Tests: Predicting Poverty](https://github.com/drivendataorg/pover-t-tests)
 | [Random Walk of the Penguins](https://github.com/drivendataorg/random-walk-of-the-penguins)
 | [N+1 Fish, N+2 Fish](https://github.com/drivendataorg/n-plus-one-fish)
