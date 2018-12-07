@@ -44,3 +44,6 @@
 [submodule "pri-matrix-factorization"]
 	path = pri-matrix-factorization
 	url = https://github.com/drivendataorg/pri-matrix-factorization
+[submodule "power-laws-cold-start"]
+	path = power-laws-cold-start
+	url = https://github.com/drivendataorg/power-laws-cold-start
