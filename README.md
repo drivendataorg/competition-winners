@@ -27,6 +27,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Power Laws: Anomaly Detection](https://github.com/drivendataorg/power-laws-anomalies)
 | [Power Laws: Optimizing Demand-side Strategies](https://github.com/drivendataorg/power-laws-optimization)
 | [Power Laws: Cold Start Energy Forecasting](https://github.com/drivendataorg/power-laws-cold-start)
+| [Sustainable Industry: Rinse Over Run](https://github.com/drivendataorg/rinse-over-run)
 
 <br><br>
 
