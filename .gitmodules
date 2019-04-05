@@ -47,3 +47,6 @@
 [submodule "power-laws-cold-start"]
 	path = power-laws-cold-start
 	url = https://github.com/drivendataorg/power-laws-cold-start
+[submodule "rinse-over-run"]
+	path = rinse-over-run
+	url = https://github.com/drivendataorg/rinse-over-run
