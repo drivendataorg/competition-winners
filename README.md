@@ -28,6 +28,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Power Laws: Optimizing Demand-side Strategies](https://github.com/drivendataorg/power-laws-optimization)
 | [Power Laws: Cold Start Energy Forecasting](https://github.com/drivendataorg/power-laws-cold-start)
 | [Sustainable Industry: Rinse Over Run](https://github.com/drivendataorg/rinse-over-run)
+| [Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery](https://github.com/drivendataorg/open-ai-caribbean)
 
 <br><br>
 
@@ -41,4 +42,3 @@ To avoid explicitly initializing each submodule, use the `--recursive` flag when
 `git clone --recursive https://github.com/drivendata/competition-winners.git`.
 
 This will download the `competition-winners` repository, as well as the contents of _every_ submodule in the winners repository.
-

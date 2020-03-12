@@ -50,3 +50,6 @@
 [submodule "rinse-over-run"]
 	path = rinse-over-run
 	url = https://github.com/drivendataorg/rinse-over-run
+[submodule "open-ai-caribbean"]
+	path = open-ai-caribbean
+	url = https://github.com/drivendataorg/open-ai-caribbean
