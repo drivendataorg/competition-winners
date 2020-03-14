@@ -1,4 +1,4 @@
-[<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' style="max-width:85%;>](https://www.drivendata.org/)
+[<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' width="600">](https://www.drivendata.org/)
 <br><br>
 
 ## Background
