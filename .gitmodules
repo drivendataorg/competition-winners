@@ -53,3 +53,6 @@
 [submodule "open-ai-caribbean"]
 	path = open-ai-caribbean
 	url = https://github.com/drivendataorg/open-ai-caribbean
+[submodule "hakuna-madata"]
+	path = hakuna-madata
+	url = https://github.com/drivendataorg/hakuna-madata
