@@ -30,6 +30,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Sustainable Industry: Rinse Over Run](https://github.com/drivendataorg/rinse-over-run)
 | [Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery](https://github.com/drivendataorg/open-ai-caribbean)
 | [Hakuna Ma-data: Identify Wildlife on the Serengeti with AI for Earth](https://github.com/drivendataorg/hakuna-madata)
+| [Open Cities AI Challenge: Segmenting Buildings for Disaster Resilience](https://github.com/drivendataorg/open-cities-ai-challenge)
 
 <br><br>
 
