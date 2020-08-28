@@ -31,6 +31,8 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery](https://github.com/drivendataorg/open-ai-caribbean)
 | [Hakuna Ma-data: Identify Wildlife on the Serengeti with AI for Earth](https://github.com/drivendataorg/hakuna-madata)
 | [Open Cities AI Challenge: Segmenting Buildings for Disaster Resilience](https://github.com/drivendataorg/open-cities-ai-challenge)
+| [Clog Loss: Advance Alzheimer’s Research with Stall Catchers](https://github.com/drivendataorg/clog-loss-alzheimers-research)
+
 
 <br><br>
 
