@@ -62,3 +62,7 @@
 [submodule "clog-loss-alzheimers-research"]
 	path = clog-loss-alzheimers-research
 	url = https://github.com/drivendataorg/clog-loss-alzheimers-research.git
+[submodule "tissuenet-cervical-biopsies"]
+	path = tissuenet-cervical-biopsies
+	url = https://github.com/drivendataorg/tissuenet-cervical-biopsies.git
+	branch = main
