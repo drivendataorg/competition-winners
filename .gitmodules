@@ -66,3 +66,6 @@
 	path = tissuenet-cervical-biopsies
 	url = https://github.com/drivendataorg/tissuenet-cervical-biopsies.git
 	branch = main
+[submodule "wind-dependent-variables"]
+	path = wind-dependent-variables
+	url = https://github.com/drivendataorg/wind-dependent-variables

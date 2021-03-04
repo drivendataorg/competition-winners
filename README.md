@@ -33,6 +33,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Open Cities AI Challenge: Segmenting Buildings for Disaster Resilience](https://github.com/drivendataorg/open-cities-ai-challenge)
 | [Clog Loss: Advance Alzheimer’s Research with Stall Catchers](https://github.com/drivendataorg/clog-loss-alzheimers-research)
 | [TissueNet: Detect Lesions in Cervical Biopsies](https://github.com/drivendataorg/tissuenet-cervical-biopsies)
+| [Wind-dependent Variables: Predict Wind Speeds of Tropical Storms](https://github.com/drivendataorg/wind-dependent-variables)
 
 
 <br><br>
