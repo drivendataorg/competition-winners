@@ -69,3 +69,6 @@
 [submodule "wind-dependent-variables"]
 	path = wind-dependent-variables
 	url = https://github.com/drivendataorg/wind-dependent-variables
+[submodule "magnet-geomagnetic-field"]
+	path = magnet-geomagnetic-field
+	url = https://github.com/drivendataorg/magnet-geomagnetic-field
