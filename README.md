@@ -36,6 +36,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Wind-dependent Variables: Predict Wind Speeds of Tropical Storms](https://github.com/drivendataorg/wind-dependent-variables)
 | [MagNet: Model the Geomagnetic Field](https://github.com/drivendataorg/magnet-geomagnetic-field)
 | [Genetic Engineering Attribution Challenge](https://zenodo.org/record/4774228#.YQRNnXVKgkF)
+| [Hateful Memes](https://github.com/drivendataorg/hateful-memes.git)
 
 
 <br><br>
