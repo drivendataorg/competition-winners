@@ -37,6 +37,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [MagNet: Model the Geomagnetic Field](https://github.com/drivendataorg/magnet-geomagnetic-field)
 | [Genetic Engineering Attribution Challenge](https://zenodo.org/record/4774228#.YQRNnXVKgkF)
 | [Hateful Memes](https://github.com/drivendataorg/hateful-memes.git)
+| [Overhead Geopose Challenge](https://github.com/drivendataorg/overhead-geopose-challenge)
 
 
 <br><br>

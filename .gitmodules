@@ -75,3 +75,6 @@
 [submodule "hateful-memes"]
 	path = hateful-memes
 	url = https://github.com/drivendataorg/hateful-memes
+[submodule "overhead-geopose-challenge"]
+	path = overhead-geopose-challenge
+	url = https://github.com/drivendataorg/overhead-geopose-challenge.git
