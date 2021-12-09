@@ -81,3 +81,6 @@
 [submodule "stac-overflow"]
 	path = stac-overflow
 	url = https://github.com/drivendataorg/stac-overflow
+[submodule "image-similarity-challenge"]
+	path = image-similarity-challenge
+	url = https://github.com/drivendataorg/image-similarity-challenge

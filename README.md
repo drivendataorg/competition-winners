@@ -39,6 +39,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Hateful Memes](https://github.com/drivendataorg/hateful-memes.git)
 | [Overhead Geopose Challenge](https://github.com/drivendataorg/overhead-geopose-challenge)
 | [STAC Overflow: Map Floodwater from Radar Imagery](https://github.com/drivendataorg/stac-overflow)
+| [Image Similarity Challenge](https://github.com/drivendataorg/image-similarity-challenge)
 
 
 <br><br>
