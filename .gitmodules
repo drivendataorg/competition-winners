@@ -84,3 +84,6 @@
 [submodule "image-similarity-challenge"]
 	path = image-similarity-challenge
 	url = https://github.com/drivendataorg/image-similarity-challenge
+[submodule "deep-chimpact-winners"]
+	path = deep-chimpact-winners
+	url = https://github.com/drivendataorg/deep-chimpact-winners

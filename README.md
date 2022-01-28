@@ -40,6 +40,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Overhead Geopose Challenge](https://github.com/drivendataorg/overhead-geopose-challenge)
 | [STAC Overflow: Map Floodwater from Radar Imagery](https://github.com/drivendataorg/stac-overflow)
 | [Image Similarity Challenge](https://github.com/drivendataorg/image-similarity-challenge)
+| [Deep Chimpact Challenge](https://github.com/drivendataorg/deep-chimpact-winners)
 
 
 <br><br>
