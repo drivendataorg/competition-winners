@@ -41,6 +41,8 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [STAC Overflow: Map Floodwater from Radar Imagery](https://github.com/drivendataorg/stac-overflow)
 | [Image Similarity Challenge](https://github.com/drivendataorg/image-similarity-challenge)
 | [Deep Chimpact Challenge](https://github.com/drivendataorg/deep-chimpact-winners)
+| [On Cloud N: Cloud Cover Detection Challenge](https://github.com/drivendataorg/cloud-cover)
+
 
 
 <br><br>

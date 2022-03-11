@@ -87,3 +87,6 @@
 [submodule "deep-chimpact-winners"]
 	path = deep-chimpact-winners
 	url = https://github.com/drivendataorg/deep-chimpact-winners
+[submodule "cloud-cover"]
+	path = cloud-cover
+	url = https://github.com/drivendataorg/cloud-cover
