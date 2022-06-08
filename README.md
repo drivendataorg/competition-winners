@@ -42,6 +42,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Image Similarity Challenge](https://github.com/drivendataorg/image-similarity-challenge)
 | [Deep Chimpact Challenge](https://github.com/drivendataorg/deep-chimpact-winners)
 | [On Cloud N: Cloud Cover Detection Challenge](https://github.com/drivendataorg/cloud-cover)
+| [Mars Spectrometry: Detect Evidence for Past Habitability](https://github.com/drivendataorg/mars-spectrometry)
 
 
 

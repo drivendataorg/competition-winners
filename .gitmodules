@@ -90,3 +90,6 @@
 [submodule "cloud-cover"]
 	path = cloud-cover
 	url = https://github.com/drivendataorg/cloud-cover
+[submodule "mars-spectrometry"]
+	path = mars-spectrometry
+	url = https://github.com/drivendataorg/mars-spectrometry
