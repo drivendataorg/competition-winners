@@ -93,3 +93,6 @@
 [submodule "mars-spectrometry"]
 	path = mars-spectrometry
 	url = https://github.com/drivendataorg/mars-spectrometry
+[submodule "nasa-airathon"]
+	path = nasa-airathon
+	url = https://github.com/drivendataorg/nasa-airathon

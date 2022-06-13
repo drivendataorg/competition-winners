@@ -43,6 +43,8 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Deep Chimpact Challenge](https://github.com/drivendataorg/deep-chimpact-winners)
 | [On Cloud N: Cloud Cover Detection Challenge](https://github.com/drivendataorg/cloud-cover)
 | [Mars Spectrometry: Detect Evidence for Past Habitability](https://github.com/drivendataorg/mars-spectrometry)
+| [NASA Airathon: Predict Air Quality](https://github.com/drivendataorg/nasa-airathon)
+
 
 
 
