@@ -44,7 +44,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [On Cloud N: Cloud Cover Detection Challenge](https://github.com/drivendataorg/cloud-cover)
 | [Mars Spectrometry: Detect Evidence for Past Habitability](https://github.com/drivendataorg/mars-spectrometry)
 | [NASA Airathon: Predict Air Quality](https://github.com/drivendataorg/nasa-airathon)
-| [Where's Whale-do?](https://www.drivendata.org/competitions/96/beluga-whales/)
+| [Where's Whale-do?](https://github.com/drivendataorg/wheres-whale-do)
 
 
 
