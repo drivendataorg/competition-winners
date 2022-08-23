@@ -99,3 +99,6 @@
 [submodule "wheres-whale-do"]
 	path = wheres-whale-do
 	url = https://github.com/drivendataorg/wheres-whale-do
+[submodule "nasa-airport-config"]
+	path = nasa-airport-config
+	url = https://github.com/drivendataorg/nasa-airport-config
