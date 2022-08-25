@@ -102,3 +102,6 @@
 [submodule "nasa-airport-config"]
 	path = nasa-airport-config
 	url = https://github.com/drivendataorg/nasa-airport-config
+[submodule "snowcast-showdown"]
+	path = snowcast-showdown
+	url = https://github.com/drivendataorg/snowcast-showdown

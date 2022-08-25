@@ -46,7 +46,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [NASA Airathon: Predict Air Quality](https://github.com/drivendataorg/nasa-airathon)
 | [Where's Whale-do?](https://github.com/drivendataorg/wheres-whale-do)
 | [Run-way Functions: Predict Reconfigurations at US Airports](https://github.com/drivendataorg/nasa-airport-config)
-
+| [Snowcast Showdown](https://github.com/drivendataorg/snowcast-showdown)
 
 <br><br>
 
