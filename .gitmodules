@@ -105,3 +105,6 @@
 [submodule "snowcast-showdown"]
 	path = snowcast-showdown
 	url = https://github.com/drivendataorg/snowcast-showdown
+[submodule "mars-spectrometry-gcms"]
+	path = mars-spectrometry-gcms
+	url = https://github.com/drivendataorg/mars-spectrometry-gcms

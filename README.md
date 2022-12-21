@@ -47,7 +47,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Where's Whale-do?](https://github.com/drivendataorg/wheres-whale-do)
 | [Run-way Functions: Predict Reconfigurations at US Airports](https://github.com/drivendataorg/nasa-airport-config)
 | [Snowcast Showdown](https://github.com/drivendataorg/snowcast-showdown)
-
+| [Mars Spectrometry 2: Gas Chromatography](https://github.com/drivendataorg/mars-spectrometry-gcms)
 <br><br>
 
 
