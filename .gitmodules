@@ -108,3 +108,6 @@
 [submodule "mars-spectrometry-gcms"]
 	path = mars-spectrometry-gcms
 	url = https://github.com/drivendataorg/mars-spectrometry-gcms
+[submodule "the-biomassters"]
+	path = the-biomassters
+	url = https://github.com/drivendataorg/the-biomassters
