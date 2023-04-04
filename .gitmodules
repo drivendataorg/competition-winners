@@ -111,3 +111,6 @@
 [submodule "the-biomassters"]
 	path = the-biomassters
 	url = https://github.com/drivendataorg/the-biomassters
+[submodule "tick-tick-bloom"]
+	path = tick-tick-bloom
+	url = https://github.com/drivendataorg/tick-tick-bloom
