@@ -49,6 +49,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Snowcast Showdown](https://github.com/drivendataorg/snowcast-showdown)
 | [Mars Spectrometry 2: Gas Chromatography](https://github.com/drivendataorg/mars-spectrometry-gcms)
 | [The BioMassters](https://github.com/drivendataorg/the-biomassters)
+| [Tick Tick Bloom: Harmful Algal Bloom Detection Challenge](https://github.com/drivendataorg/tick-tick-bloom)
 <br><br>
 
 
