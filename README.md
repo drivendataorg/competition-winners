@@ -50,8 +50,7 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Mars Spectrometry 2: Gas Chromatography](https://github.com/drivendataorg/mars-spectrometry-gcms)
 | [The BioMassters](https://github.com/drivendataorg/the-biomassters)
 | [Tick Tick Bloom: Harmful Algal Bloom Detection Challenge](https://github.com/drivendataorg/tick-tick-bloom)
-<br><br>
-
+| [VisioMel Challenge: Predicting Melanoma Relapse](https://github.com/drivendataorg/visiomel-melanoma)
 
 ## Cloning this repository
 

@@ -114,3 +114,6 @@
 [submodule "tick-tick-bloom"]
 	path = tick-tick-bloom
 	url = https://github.com/drivendataorg/tick-tick-bloom
+[submodule "visiomel-melanoma"]
+	path = visiomel-melanoma
+	url = https://github.com/drivendataorg/visiomel-melanoma
