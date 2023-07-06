@@ -52,6 +52,7 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [The BioMassters](https://github.com/drivendataorg/the-biomassters)
 | [Tick Tick Bloom: Harmful Algal Bloom Detection Challenge](https://github.com/drivendataorg/tick-tick-bloom)
 | [VisioMel Challenge: Predicting Melanoma Relapse](https://github.com/drivendataorg/visiomel-melanoma)
+| [Meta AI Video Similarity Challenge](https://github.com/drivendataorg/video-similarity-challenge)
 
 ## Using this repository
 
