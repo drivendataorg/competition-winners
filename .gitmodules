@@ -20,9 +20,6 @@
 [submodule "keeping-it-fresh"]
 	path = competitions/keeping-it-fresh
 	url = https://github.com/drivendataorg/keeping-it-fresh
-[submodule "for-fun-competitions"]
-	path = for-fun-competitions
-	url = https://github.com/drivendataorg/for-fun-competitions
 [submodule "pover-t-tests"]
 	path = competitions/pover-t-tests
 	url = https://github.com/drivendataorg/pover-t-tests
@@ -120,3 +117,15 @@
 [submodule "video-similarity-challenge"]
 	path = competitions/video-similarity-challenge
 	url = https://github.com/drivendataorg/video-similarity-challenge
+[submodule "practice-competitions/blood-donations"]
+	path = practice-competitions/blood-donations
+	url = https://github.com/drivendataorg/blood-donations.git
+[submodule "practice-competitions/dengai"]
+	path = practice-competitions/dengai
+	url = https://github.com/drivendataorg/dengai.git
+[submodule "practice-competitions/millennium-development-goals"]
+	path = practice-competitions/millennium-development-goals
+	url = https://github.com/drivendataorg/millennium-development-goals.git
+[submodule "practice-competitions/pump-it-up"]
+	path = practice-competitions/pump-it-up
+	url = https://github.com/drivendataorg/pump-it-up.git
