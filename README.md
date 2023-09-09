@@ -3,10 +3,11 @@
 
 ## Background
 
-DrivenData runs machine learning competitions to help non-profits, NGOs, governments, and other social impact organizations use data science in service of humanity. Part of DrivenData's mission is to enable data scientists and non-profits to learn from the work that is done in these competitions. To this end, the code submitted by winners is released under an open source license for others to learn from, use, and adapt.
+DrivenData runs machine learning competitions to help non-profits, NGOs, governments, and other social impact organizations use data science in service of humanity. Part of DrivenData's mission is to enable data scientists and non-profits to learn from the work that is done in these competitions. To this end, the code submitted by winners for almost all DrivenData competitions are released under a permissive open source license for others to learn from, use, and adapt.
 
 ## What's in this Repository
-This repository contains code prodvided by the winners of [competitions](https://www.drivendata.org/competitions/) hosted on DrivenData. Feel free to browse to any particular competition's winning repository or just clone all of the winning code to learn from!
+
+This repository makes it easy to find code prodvided by the winners of [competitions](https://www.drivendata.org/competitions/) hosted on DrivenData. Use the list below to browse to any particular competition's winning repository; or, you can clone this repository to get all of the code at once.
 
 ### Winning Submissions
 
@@ -52,12 +53,22 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Tick Tick Bloom: Harmful Algal Bloom Detection Challenge](https://github.com/drivendataorg/tick-tick-bloom)
 | [VisioMel Challenge: Predicting Melanoma Relapse](https://github.com/drivendataorg/visiomel-melanoma)
 
-## Cloning this repository
+## Using this repository
 
-Note that when any repo containing submodules is cloned, each submodule needs to be initialized else they remain empty.
+This repository includes each competition's winners repository using git's [submodule](https://github.blog/2016-02-01-working-with-submodules/) functionality. Note that when any repo containing submodules is cloned, each submodule needs to be initialized else they remain empty.
+
+### Cloning this repository with all submodules directly
 
 To avoid explicitly initializing each submodule, use the `--recursive` flag when cloning:
 
 `git clone --recursive https://github.com/drivendata/competition-winners.git`.
 
 This will download the `competition-winners` repository, as well as the contents of _every_ submodule in the winners repository.
+
+### Download submodules for already-cloned repository
+
+If you've already cloned this repository without the `--recursive` flag and the submodules are empty, use the following command to download them:
+
+```bash
+git submodule update --init --recursive
+```
