@@ -7,7 +7,7 @@ DrivenData runs machine learning competitions to help non-profits, NGOs, governm
 
 ## What's in this Repository
 
-This repository makes it easy to find code prodvided by the winners of [competitions](https://www.drivendata.org/competitions/) hosted on DrivenData. Use the list below to browse to any particular competition's winning repository; or, you can clone this repository to get all of the code at once.
+This repository makes it easy to find code provided by the winners of [competitions](https://www.drivendata.org/competitions/) hosted on DrivenData. Use the list below to browse to any particular competition's winners repository; or, you can clone this repository to get all of the code at once. See the below section "Cloning this repository" in this README for cloning instructions.
 
 ### Winning Submissions
 
@@ -54,7 +54,18 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [VisioMel Challenge: Predicting Melanoma Relapse](https://github.com/drivendataorg/visiomel-melanoma)
 | [Meta AI Video Similarity Challenge](https://github.com/drivendataorg/video-similarity-challenge)
 
-## Using this repository
+### Practice Competitions
+
+We also provide repositories for DrivenData's [practice competitions](https://www.drivendata.org/competitions/search/?tab=reward_practice) with code volunteered from leading competitors.
+
+| Practice Competition
+| ---
+| [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+| [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
+| [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/)
+| [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/)
+
+## Cloning this repository
 
 This repository includes each competition's winners repository using git's [submodule](https://github.blog/2016-02-01-working-with-submodules/) functionality. Note that when any repo containing submodules is cloned, each submodule needs to be initialized else they remain empty.
 
