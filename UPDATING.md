@@ -30,20 +30,23 @@ new file:   name-of-competition-repo
  4. Complete the update by staging `README.me`, `.gitmodules` and `name-of-competition-repo` then committing the changes to master. The new submodule should now appear on the remote page.
 
 
-## To Update All Repositories to Latest on `master`
+## Updating all submodules to latest on their respective `main` branches
 
 Pull the latest for every submodule
-```
-git submodule foreach git pull origin master
+
+```bash
+git submodule foreach git pull origin main
 ```
 
 Commit those changes:
-```
+
+```bash
 git add .
 git commit -m 'Update submodules'
 ```
 
 Push them to this repository:
-```
+
+```bash
 git push
 ```
