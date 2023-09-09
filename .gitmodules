@@ -117,3 +117,6 @@
 [submodule "visiomel-melanoma"]
 	path = visiomel-melanoma
 	url = https://github.com/drivendataorg/visiomel-melanoma
+[submodule "video-similarity-challenge"]
+	path = video-similarity-challenge
+	url = https://github.com/drivendataorg/video-similarity-challenge
