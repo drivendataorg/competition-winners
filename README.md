@@ -60,10 +60,10 @@ We also provide repositories for DrivenData's [practice competitions](https://ww
 
 | Practice Competition
 | ---
-| [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
-| [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
-| [United Nations Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/)
-| [Warm Up: Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/)
+| [DengAI: Predicting Disease Spread](https://github.com/drivendataorg/dengai)
+| [Pump it Up: Data Mining the Water Table](https://github.com/drivendataorg/pump-it-up/)
+| [United Nations Millennium Development Goals](https://github.com/drivendataorg/millennium-development-goals/)
+| [Warm Up: Predict Blood Donations](https://github.com/drivendataorg/blood-donations)
 
 ## Cloning this repository
 
