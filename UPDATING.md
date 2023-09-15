@@ -27,7 +27,7 @@ new file:   name-of-competition-repo
 
  3. Add a link to the competition table in the readme
 
- 4. Complete the update by staging `README.me`, `.gitmodules` and `name-of-competition-repo` then committing the changes to master. The new submodule should now appear on the remote page.
+ 4. Complete the update by staging `README.md`, `.gitmodules` and `name-of-competition-repo` then committing the changes to master. The new submodule should now appear on the remote page.
 
 
 ## Updating all submodules to latest on their respective `main` branches

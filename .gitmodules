@@ -120,3 +120,6 @@
 [submodule "video-similarity-challenge"]
 	path = video-similarity-challenge
 	url = https://github.com/drivendataorg/video-similarity-challenge
+[submodule "nasa-airport-pushback"]
+	path = nasa-airport-pushback
+	url = https://github.com/drivendataorg/nasa-airport-pushback
