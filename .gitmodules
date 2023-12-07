@@ -123,3 +123,6 @@
 [submodule "nasa-airport-pushback"]
 	path = nasa-airport-pushback
 	url = https://github.com/drivendataorg/nasa-airport-pushback
+[submodule "unsupervised-wisdom"]
+	path = unsupervised-wisdom
+	url = https://github.com/drivendataorg/unsupervised-wisdom
