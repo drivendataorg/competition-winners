@@ -55,6 +55,7 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [Meta AI Video Similarity Challenge](https://github.com/drivendataorg/video-similarity-challenge)
 | [Pushback to the Future: Predict Pushback Time at US Airports](https://github.com/drivendataorg/nasa-airport-pushback)
 | [Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://github.com/drivendataorg/unsupervised-wisdom)
+| [Pale Blue Dot: Visualization Challenge](https://github.com/drivendataorg/pale-blue-dot)
 
 ## Using this repository
 

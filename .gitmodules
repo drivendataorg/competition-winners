@@ -126,3 +126,6 @@
 [submodule "unsupervised-wisdom"]
 	path = unsupervised-wisdom
 	url = https://github.com/drivendataorg/unsupervised-wisdom
+[submodule "pale-blue-dot"]
+	path = pale-blue-dot
+	url = https://github.com/drivendataorg/pale-blue-dot/
