@@ -56,6 +56,7 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [Pushback to the Future: Predict Pushback Time at US Airports](https://github.com/drivendataorg/nasa-airport-pushback)
 | [Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://github.com/drivendataorg/unsupervised-wisdom)
 | [Pale Blue Dot: Visualization Challenge](https://github.com/drivendataorg/pale-blue-dot)
+| [Kelp Wanted: Segmenting Kelp Forests](https://github.com/drivendataorg/kelp-wanted)
 
 ## Using this repository
 

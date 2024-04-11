@@ -129,3 +129,6 @@
 [submodule "pale-blue-dot"]
 	path = pale-blue-dot
 	url = https://github.com/drivendataorg/pale-blue-dot/
+[submodule "kelp-wanted"]
+	path = kelp-wanted
+	url = https://github.com/drivendataorg/kelp-wanted
