@@ -57,6 +57,7 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [Unsupervised Wisdom: Explore Medical Narratives on Older Adult Falls](https://github.com/drivendataorg/unsupervised-wisdom)
 | [Pale Blue Dot: Visualization Challenge](https://github.com/drivendataorg/pale-blue-dot)
 | [Kelp Wanted: Segmenting Kelp Forests](https://github.com/drivendataorg/kelp-wanted)
+| [SNOMED CT Entity Linking Challenge](https://github.com/drivendataorg/snomed-ct-entity-linking)
 
 ## Using this repository
 

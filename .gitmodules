@@ -132,3 +132,6 @@
 [submodule "kelp-wanted"]
 	path = kelp-wanted
 	url = https://github.com/drivendataorg/kelp-wanted
+[submodule "snomed-ct-entity-linking"]
+	path = snomed-ct-entity-linking
+	url = https://github.com/drivendataorg/snomed-ct-entity-linking
