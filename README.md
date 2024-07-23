@@ -58,6 +58,7 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [Pale Blue Dot: Visualization Challenge](https://github.com/drivendataorg/pale-blue-dot)
 | [Kelp Wanted: Segmenting Kelp Forests](https://github.com/drivendataorg/kelp-wanted)
 | [SNOMED CT Entity Linking Challenge](https://github.com/drivendataorg/snomed-ct-entity-linking)
+| [Pose Bowl: Spacecraft Detection and Pose Estimation Challenge](https://github.com/drivendataorg/pose-bowl-spacecraft-challenge)
 
 ## Using this repository
 

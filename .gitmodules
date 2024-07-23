@@ -135,3 +135,6 @@
 [submodule "snomed-ct-entity-linking"]
 	path = snomed-ct-entity-linking
 	url = https://github.com/drivendataorg/snomed-ct-entity-linking
+[submodule "pose-bowl-spacecraft-challenge"]
+	path = pose-bowl-spacecraft-challenge
+	url = https://github.com/drivendataorg/pose-bowl-spacecraft-challenge
