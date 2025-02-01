@@ -25,7 +25,11 @@ modified:   .gitmodules
 new file:   name-of-competition-repo
 ```
 
- 3. Add a link to the competition table in the readme
+ 3. Add a link to the competition table in the readme. Use the format:
+
+ ```
+ [competition name](competition winners repo link)
+ ```
 
  4. Complete the update by staging `README.md`, `.gitmodules` and `name-of-competition-repo` then committing the changes to master. The new submodule should now appear on the remote page.
 
