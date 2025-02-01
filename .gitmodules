@@ -138,3 +138,6 @@
 [submodule "pose-bowl-spacecraft-challenge"]
 	path = pose-bowl-spacecraft-challenge
 	url = https://github.com/drivendataorg/pose-bowl-spacecraft-challenge
+[submodule "youth-mental-health"]
+	path = youth-mental-health
+	url = https://github.com/drivendataorg/youth-mental-health
