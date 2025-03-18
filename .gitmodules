@@ -141,3 +141,6 @@
 [submodule "youth-mental-health"]
 	path = youth-mental-health
 	url = https://github.com/drivendataorg/youth-mental-health
+[submodule "goodnight-moon"]
+	path = goodnight-moon
+	url = https://github.com/drivendataorg/goodnight-moon
