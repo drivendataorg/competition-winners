@@ -144,3 +144,6 @@
 [submodule "goodnight-moon"]
 	path = goodnight-moon
 	url = https://github.com/drivendataorg/goodnight-moon
+[submodule "water-supply-forecast-rodeo"]
+	path = water-supply-forecast-rodeo
+	url = https://github.com/drivendataorg/water-supply-forecast-rodeo.git
