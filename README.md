@@ -62,6 +62,7 @@ This repository makes it easy to find code prodvided by the winners of [competit
 | [Water Supply Forecast Rodeo](https://github.com/drivendataorg/water-supply-forecast-rodeo)
 | [Youth Mental Health Narratives Challenge](https://github.com/drivendataorg/youth-mental-health)
 | [Goodnight Moon, Hello Early Literacy Screening](https://github.com/drivendataorg/goodnight-moon)
+| [Artificial Intelligence for Advancing Instruction (AIAI) Challenge](https://github.com/drivendataorg/aiai-challenge)
 
 ## Using this repository
 
