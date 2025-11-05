@@ -1,0 +1,5 @@
+# OpenAI Agents SDK
+openai-agents
+
+# Additional dependencies
+python-dotenv
