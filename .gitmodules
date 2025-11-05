@@ -147,3 +147,6 @@
 [submodule "water-supply-forecast-rodeo"]
 	path = water-supply-forecast-rodeo
 	url = https://github.com/drivendataorg/water-supply-forecast-rodeo.git
+[submodule "aiai-challenge"]
+	path = aiai-challenge
+	url = https://github.com/drivendataorg/aiai-challenge
