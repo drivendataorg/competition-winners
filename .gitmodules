@@ -22,4 +22,131 @@
 	url = https://github.com/drivendataorg/keeping-it-fresh
 [submodule "for-fun-competitions"]
 	path = for-fun-competitions
-	url = https://github.com/drivendataorg/for-fun-competitions.git
+	url = https://github.com/drivendataorg/for-fun-competitions
+[submodule "pover-t-tests"]
+	path = pover-t-tests
+	url = https://github.com/drivendataorg/pover-t-tests
+[submodule "n-plus-one-fish"]
+	path = n-plus-one-fish
+	url = https://github.com/drivendataorg/n-plus-one-fish
+[submodule "random-walk-of-the-penguins"]
+	path = random-walk-of-the-penguins
+	url = https://github.com/drivendataorg/random-walk-of-the-penguins
+[submodule "power-laws-forecasting"]
+	path = power-laws-forecasting
+	url = https://github.com/drivendataorg/power-laws-forecasting
+[submodule "power-laws-anomalies"]
+	path = power-laws-anomalies
+	url = https://github.com/drivendataorg/power-laws-anomalies
+[submodule "power-laws-optimization"]
+	path = power-laws-optimization
+	url = https://github.com/drivendataorg/power-laws-optimization
+[submodule "pri-matrix-factorization"]
+	path = pri-matrix-factorization
+	url = https://github.com/drivendataorg/pri-matrix-factorization
+[submodule "power-laws-cold-start"]
+	path = power-laws-cold-start
+	url = https://github.com/drivendataorg/power-laws-cold-start
+[submodule "rinse-over-run"]
+	path = rinse-over-run
+	url = https://github.com/drivendataorg/rinse-over-run
+[submodule "open-ai-caribbean"]
+	path = open-ai-caribbean
+	url = https://github.com/drivendataorg/open-ai-caribbean
+[submodule "hakuna-madata"]
+	path = hakuna-madata
+	url = https://github.com/drivendataorg/hakuna-madata
+[submodule "open-cities-ai-challenge"]
+	path = open-cities-ai-challenge
+	url = https://github.com/drivendataorg/open-cities-ai-challenge
+[submodule "clog-loss-alzheimers-research"]
+	path = clog-loss-alzheimers-research
+	url = https://github.com/drivendataorg/clog-loss-alzheimers-research.git
+[submodule "tissuenet-cervical-biopsies"]
+	path = tissuenet-cervical-biopsies
+	url = https://github.com/drivendataorg/tissuenet-cervical-biopsies.git
+	branch = main
+[submodule "wind-dependent-variables"]
+	path = wind-dependent-variables
+	url = https://github.com/drivendataorg/wind-dependent-variables
+[submodule "magnet-geomagnetic-field"]
+	path = magnet-geomagnetic-field
+	url = https://github.com/drivendataorg/magnet-geomagnetic-field
+[submodule "hateful-memes"]
+	path = hateful-memes
+	url = https://github.com/drivendataorg/hateful-memes
+[submodule "overhead-geopose-challenge"]
+	path = overhead-geopose-challenge
+	url = https://github.com/drivendataorg/overhead-geopose-challenge.git
+[submodule "stac-overflow"]
+	path = stac-overflow
+	url = https://github.com/drivendataorg/stac-overflow
+[submodule "image-similarity-challenge"]
+	path = image-similarity-challenge
+	url = https://github.com/drivendataorg/image-similarity-challenge
+[submodule "deep-chimpact-winners"]
+	path = deep-chimpact-winners
+	url = https://github.com/drivendataorg/deep-chimpact-winners
+[submodule "cloud-cover"]
+	path = cloud-cover
+	url = https://github.com/drivendataorg/cloud-cover
+[submodule "mars-spectrometry"]
+	path = mars-spectrometry
+	url = https://github.com/drivendataorg/mars-spectrometry
+[submodule "nasa-airathon"]
+	path = nasa-airathon
+	url = https://github.com/drivendataorg/nasa-airathon
+[submodule "wheres-whale-do"]
+	path = wheres-whale-do
+	url = https://github.com/drivendataorg/wheres-whale-do
+[submodule "nasa-airport-config"]
+	path = nasa-airport-config
+	url = https://github.com/drivendataorg/nasa-airport-config
+[submodule "snowcast-showdown"]
+	path = snowcast-showdown
+	url = https://github.com/drivendataorg/snowcast-showdown
+[submodule "mars-spectrometry-gcms"]
+	path = mars-spectrometry-gcms
+	url = https://github.com/drivendataorg/mars-spectrometry-gcms
+[submodule "the-biomassters"]
+	path = the-biomassters
+	url = https://github.com/drivendataorg/the-biomassters
+[submodule "tick-tick-bloom"]
+	path = tick-tick-bloom
+	url = https://github.com/drivendataorg/tick-tick-bloom
+[submodule "visiomel-melanoma"]
+	path = visiomel-melanoma
+	url = https://github.com/drivendataorg/visiomel-melanoma
+[submodule "video-similarity-challenge"]
+	path = video-similarity-challenge
+	url = https://github.com/drivendataorg/video-similarity-challenge
+[submodule "nasa-airport-pushback"]
+	path = nasa-airport-pushback
+	url = https://github.com/drivendataorg/nasa-airport-pushback
+[submodule "unsupervised-wisdom"]
+	path = unsupervised-wisdom
+	url = https://github.com/drivendataorg/unsupervised-wisdom
+[submodule "pale-blue-dot"]
+	path = pale-blue-dot
+	url = https://github.com/drivendataorg/pale-blue-dot/
+[submodule "kelp-wanted"]
+	path = kelp-wanted
+	url = https://github.com/drivendataorg/kelp-wanted
+[submodule "snomed-ct-entity-linking"]
+	path = snomed-ct-entity-linking
+	url = https://github.com/drivendataorg/snomed-ct-entity-linking
+[submodule "pose-bowl-spacecraft-challenge"]
+	path = pose-bowl-spacecraft-challenge
+	url = https://github.com/drivendataorg/pose-bowl-spacecraft-challenge
+[submodule "youth-mental-health"]
+	path = youth-mental-health
+	url = https://github.com/drivendataorg/youth-mental-health
+[submodule "goodnight-moon"]
+	path = goodnight-moon
+	url = https://github.com/drivendataorg/goodnight-moon
+[submodule "water-supply-forecast-rodeo"]
+	path = water-supply-forecast-rodeo
+	url = https://github.com/drivendataorg/water-supply-forecast-rodeo.git
+[submodule "aiai-challenge"]
+	path = aiai-challenge
+	url = https://github.com/drivendataorg/aiai-challenge
