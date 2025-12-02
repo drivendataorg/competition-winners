@@ -63,6 +63,7 @@ This repository makes it easy to find code provided by the winners of [competiti
 | [Youth Mental Health Narratives Challenge](https://github.com/drivendataorg/youth-mental-health)
 | [Goodnight Moon, Hello Early Literacy Screening](https://github.com/drivendataorg/goodnight-moon)
 | [Artificial Intelligence for Advancing Instruction (AIAI) Challenge](https://github.com/drivendataorg/aiai-challenge)
+| [Pioneering Research for Early Prediction of Alzheimer's and Related Dementias EUREKA Challenge](https://github.com/drivendataorg/prepare-adrd)
 
 ## Using this repository
 

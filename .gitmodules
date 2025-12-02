@@ -150,3 +150,6 @@
 [submodule "aiai-challenge"]
 	path = aiai-challenge
 	url = https://github.com/drivendataorg/aiai-challenge
+[submodule "prepare-adrd"]
+	path = prepare-adrd
+	url = https://github.com/drivendataorg/prepare-adrd
