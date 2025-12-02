@@ -7,7 +7,7 @@ DrivenData runs machine learning competitions to help non-profits, NGOs, governm
 
 ## What's in this Repository
 
-This repository makes it easy to find code prodvided by the winners of [competitions](https://www.drivendata.org/competitions/) hosted on DrivenData. Use the list below to browse to any particular competition's winning repository; or, you can clone this repository to get all of the code at once.
+This repository makes it easy to find code provided by the winners of [competitions](https://www.drivendata.org/competitions/) hosted on DrivenData. Use the list below to browse to any particular competition's winning repository; or, you can clone this repository to get all of the code at once.
 
 ### Winning Submissions
 
