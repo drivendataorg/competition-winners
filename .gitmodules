@@ -153,3 +153,6 @@
 [submodule "prepare-adrd"]
 	path = prepare-adrd
 	url = https://github.com/drivendataorg/prepare-adrd
+[submodule "poverty-prediction-challenge"]
+	path = poverty-prediction-challenge
+	url = https://github.com/drivendataorg/poverty-prediction-challenge
