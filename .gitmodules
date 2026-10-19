@@ -156,3 +156,6 @@
 [submodule "poverty-prediction-challenge"]
 	path = poverty-prediction-challenge
 	url = https://github.com/drivendataorg/poverty-prediction-challenge
+[submodule "dat-parkinsons"]
+	path = dat-parkinsons
+	url = https://github.com/drivendataorg/dat-parkinsons

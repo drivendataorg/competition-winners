@@ -65,6 +65,7 @@ This repository makes it easy to find code provided by the winners of [competiti
 | [Artificial Intelligence for Advancing Instruction (AIAI) Challenge](https://github.com/drivendataorg/aiai-challenge)
 | [Pioneering Research for Early Prediction of Alzheimer's and Related Dementias EUREKA Challenge](https://github.com/drivendataorg/prepare-adrd)
 | [Poverty Prediction Challenge](https://github.com/drivendataorg/poverty-prediction-challenge)
+| [DaT Parkinson's Challenge](https://github.com/drivendataorg/dat-parkinsons)
 
 ## Using this repository
 
