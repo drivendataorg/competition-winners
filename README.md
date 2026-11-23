@@ -66,6 +66,7 @@ This repository makes it easy to find code provided by the winners of [competiti
 | [Pioneering Research for Early Prediction of Alzheimer's and Related Dementias EUREKA Challenge](https://github.com/drivendataorg/prepare-adrd)
 | [Poverty Prediction Challenge](https://github.com/drivendataorg/poverty-prediction-challenge)
 | [DaT Parkinson's Challenge](https://github.com/drivendataorg/dat-parkinsons)
+| [Trace the Ace Challenge](https://github.com/drivendataorg/trace-the-ace)
 
 ## Using this repository
 
