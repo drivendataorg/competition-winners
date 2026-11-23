@@ -159,3 +159,6 @@
 [submodule "dat-parkinsons"]
 	path = dat-parkinsons
 	url = https://github.com/drivendataorg/dat-parkinsons
+[submodule "trace-the-ace"]
+	path = trace-the-ace
+	url = https://github.com/drivendataorg/trace-the-ace
